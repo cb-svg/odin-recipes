@@ -1,0 +1,1 @@
+This is a recipes project. It will demonstrate navigation by linking pages together. 
